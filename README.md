@@ -13,11 +13,11 @@ Install Virtualbox: <br/>
 <br />
 Compare SHA256 Hash to Check Integrity:  <br/>
 <img src="https://imgur.com/YOOA0Lw.png">
-<img src="https://imgur.com/Ta98iDp.png">
+<img src="https://imgur.com/H3U9d2T.png">
 <br />
 <br />
 Open Virtualbox: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png">
+<img src="https://imgur.com/lEIh8P3.png">
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
 <br />
