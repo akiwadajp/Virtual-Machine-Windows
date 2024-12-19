@@ -16,10 +16,12 @@ Compare SHA256 Hash to Check Integrity:  <br/>
 <img src="https://imgur.com/H3U9d2T.png">
 <br />
 <br />
-Open Virtualbox: <br/>
+Open and complete installing Virtualbox: <br/>
 <img src="https://imgur.com/lEIh8P3.png">
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
+<img src="https://imgur.com/5t7mqt2.png">
+<img src="https://imgur.com/AOSwQJe.png">
+<img src="https://imgur.com/zJXOtSb.png">
+
 <br />
 <br />
 Confirm your selection:  <br/>
