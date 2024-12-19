@@ -19,13 +19,18 @@ Compare SHA256 Hash to Check Integrity:  <br/>
 Open and complete installing Virtualbox: <br/>
 <img src="https://imgur.com/lEIh8P3.png">
 <img src="https://imgur.com/5t7mqt2.png">
-<img src="https://imgur.com/AOSwQJe.png">
+<img src="https://imgur.com/LnyKBLx.png">
 <img src="https://imgur.com/zJXOtSb.png">
 
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 10 ISO image file:  <br/>
+<img src="https://imgur.com/MvLGnNb.png">
+<img src="https://imgur.com/xCWxVKX.png">
+<img src="https://imgur.com/MvLGnNb.png">
+<img src="https://imgur.com/xCWxVKX.png">
+
+
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
