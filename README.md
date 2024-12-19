@@ -9,8 +9,7 @@ Creating a Windows virtual machine using Virtualbox.
 
 <p align="center">
 Install Virtualbox: <br/>
-<img src="![image](https://github.com/user-attachments/assets/18b3c8bd-0012-4243-9992-5bdb79486231)
-" height="80%" width="80%" alt="VM Steps"/>
+<img src="https://imgur.com/O7OCBS0" height="80%" width="80%" alt="VM Steps"/>
 <br />
 <br />
 Compare SHA256 Hash to Check Integrity:  <br/>
