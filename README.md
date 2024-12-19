@@ -2,23 +2,22 @@
 <h1>Create a Windows Virtual Machine: Home Lab</h1>
 
 <h2>Description</h2>
-Creating a Windows virtual machine using Virtualbox.
+Create a Windows virtual machine using Virtualbox.
 <br />
 
 <h2>Process walk-through:</h2>
 
-<p align="center">
 Install Virtualbox: <br/>
 <img src="https://imgur.com/O7OCBS0.png">
 <br />
 <br />
 Compare SHA256 Hash to Check Integrity:  <br/>
-<img src="https://imgur.com/YOOA0Lw">
-<img src="https://imgur.com/Ta98iDp" height="80%" width="80%" alt="VM Steps"/>
+<img src="https://imgur.com/YOOA0Lw.png">
+<img src="https://imgur.com/Ta98iDp.png">
 <br />
 <br />
 Open Virtualbox: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png">
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="VM Steps"/>
 <br />
