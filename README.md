@@ -19,7 +19,6 @@ Compare SHA256 Hash to Check Integrity:  <br/>
 Open and complete installing Virtualbox: <br/>
 <img src="https://imgur.com/lEIh8P3.png">
 <img src="https://imgur.com/5t7mqt2.png">
-<img src="https://imgur.com/LnyKBLx.png">
 <img src="https://imgur.com/zJXOtSb.png">
 
 <br />
