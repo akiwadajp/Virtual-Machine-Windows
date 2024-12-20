@@ -8,12 +8,12 @@ Create a Windows virtual machine using Virtualbox.
 <h2>Process walk-through:</h2>
 
 Install Virtualbox: <br/>
-<img src="https://imgur.com/O7OCBS0.png">
+<img src="https://imgur.com/gYok5Xl.png">
 <br />
 <br />
 Compare SHA256 Hash to Check Integrity:  <br/>
 <img src="https://imgur.com/YOOA0Lw.png">
-<img src="https://imgur.com/H3U9d2T.png">
+<img src="https://imgur.com/zFee8Ry.png">
 <br />
 <br />
 Open and complete installing Virtualbox: <br/>
