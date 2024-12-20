@@ -2,12 +2,12 @@
 <h1>Create a Windows Virtual Machine: Home Lab</h1>
 
 <h2>Description</h2>
-Create a Windows virtual machine using Virtualbox.
+Create a Windows virtual machine using VirtualBox.
 <br />
 
 <h2>Process walk-through:</h2>
 
-Install Virtualbox: <br/>
+Install VirtualBox: <br/>
 <img src="https://imgur.com/gYok5Xl.png">
 <br />
 <br />
@@ -16,7 +16,7 @@ Compare SHA256 Hash to Check Integrity:  <br/>
 <img src="https://imgur.com/zFee8Ry.png">
 <br />
 <br />
-Open and complete installing Virtualbox: <br/>
+Open and complete installing VirtualBox: <br/>
 <img src="https://imgur.com/lEIh8P3.png">
 <img src="https://imgur.com/5t7mqt2.png">
 <img src="https://imgur.com/zJXOtSb.png">
@@ -26,8 +26,14 @@ Open and complete installing Virtualbox: <br/>
 Download Windows 10 ISO image file:  <br/>
 <img src="https://imgur.com/MvLGnNb.png">
 <img src="https://imgur.com/xCWxVKX.png">
-<img src="https://imgur.com/MvLGnNb.png">
-<img src="https://imgur.com/xCWxVKX.png">
+<img src="https://imgur.com/RFYW76H.png">
+<img src="https://imgur.com/0Fy10Jp.png">
+<img src="https://imgur.com/o6S9UZV.png">
+
+Creating VM via VirtualBox
+<img src="https://imgur.com/fCG5tGE.png">
+<img src="https://imgur.com/RFYW76H.png">
+<img src="https://imgur.com/0Fy10Jp.png">
 
 
 <br />
