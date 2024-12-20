@@ -20,7 +20,6 @@ Open and complete installing VirtualBox: <br/>
 <img src="https://imgur.com/lEIh8P3.png">
 <img src="https://imgur.com/5t7mqt2.png">
 <img src="https://imgur.com/zJXOtSb.png">
-
 <br />
 <br />
 Download Windows 10 ISO image file:  <br/>
@@ -29,11 +28,20 @@ Download Windows 10 ISO image file:  <br/>
 <img src="https://imgur.com/RFYW76H.png">
 <img src="https://imgur.com/0Fy10Jp.png">
 <img src="https://imgur.com/o6S9UZV.png">
-
+<br />
+<br />
 Creating VM via VirtualBox
 <img src="https://imgur.com/fCG5tGE.png">
-<img src="https://imgur.com/RFYW76H.png">
-<img src="https://imgur.com/0Fy10Jp.png">
+<img src="https://imgur.com/fureVB1.png">
+<img src="https://imgur.com/eSLyRXv.png">
+<img src="https://imgur.com/p5USnRx.png">
+<img src="https://imgur.com/0aS5BRU.png">
+
+<img src="https://imgur.com/XR2J8Ml.png">
+<img src="https://imgur.com/fureVB1.png">
+<img src="https://imgur.com/eSLyRXv.png">
+<img src="https://imgur.com/p5USnRx.png">
+<img src="https://imgur.com/0aS5BRU.png">
 
 
 <br />
